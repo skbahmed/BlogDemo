@@ -1,4 +1,4 @@
-# BlogDemo
+# <p align="center"> Blog Demo </p>
 <br>
 Used : HTML, CSS, BOOTSTRAP, PHP, MYSQL, DASHBOARD
 <br>
