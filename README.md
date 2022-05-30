@@ -5,3 +5,6 @@ Used : HTML, CSS, BOOTSTRAP, PHP, MYSQL, DASHBOARD
 For live preview, click the link below
 <br>
 https://blog-sakib.ml/
+<br>
+Dashboard
+https://blog-sakib.ml/admin
